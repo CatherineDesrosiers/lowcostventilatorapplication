@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>424</width>
-    <height>97</height>
+    <width>444</width>
+    <height>139</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -16,6 +16,11 @@
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>
     <widget class="QLabel" name="label_message">
+     <property name="font">
+      <font>
+       <pointsize>18</pointsize>
+      </font>
+     </property>
      <property name="text">
       <string/>
      </property>
@@ -38,6 +43,11 @@
      </item>
      <item>
       <widget class="QPushButton" name="pushButton_ok">
+       <property name="font">
+        <font>
+         <pointsize>18</pointsize>
+        </font>
+       </property>
        <property name="text">
         <string>OK</string>
        </property>
@@ -45,6 +55,11 @@
      </item>
      <item>
       <widget class="QPushButton" name="pushButton_yes">
+       <property name="font">
+        <font>
+         <pointsize>18</pointsize>
+        </font>
+       </property>
        <property name="text">
         <string>Yes</string>
        </property>
@@ -52,6 +67,11 @@
      </item>
      <item>
       <widget class="QPushButton" name="pushButton_no">
+       <property name="font">
+        <font>
+         <pointsize>18</pointsize>
+        </font>
+       </property>
        <property name="text">
         <string>No</string>
        </property>
@@ -59,6 +79,11 @@
      </item>
      <item>
       <widget class="QPushButton" name="pushButton_cancel">
+       <property name="font">
+        <font>
+         <pointsize>18</pointsize>
+        </font>
+       </property>
        <property name="text">
         <string>Cancel</string>
        </property>
